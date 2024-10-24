@@ -1,4 +1,4 @@
-<h2 align="left">Cleyber Bezerra</h2>
+<h2 align="left"></h2>
 
 ###
 
