@@ -10,7 +10,7 @@
 
 ###
 <fieldset align="center">
-  <legend>Tech Stack</legend>
+  <legend>Tools:</legend>
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
     <img width="12" />
@@ -35,7 +35,7 @@
 ###
 
 <fieldset>
-  <legend>Tech Stack</legend>
+  <legend>Contact me:</legend>
   <div align="center">
     <a href="@cleyberbez" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
